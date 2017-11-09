@@ -1,5 +1,7 @@
 <?php
   echo "group-project1";
+  echo "Move to next level";
+  echo "Power pass Power";
 
 
 ?>
