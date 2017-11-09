@@ -15,5 +15,6 @@
 <?php
 
   echo "gud morning";
+  echo "legend";
 
 ?>
